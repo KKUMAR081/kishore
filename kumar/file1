@@ -1,4 +1,0 @@
-class sbi
-system.out.println("state bank of india")
-deposit=bal+deposit
-withdraw=bal-withdraw
